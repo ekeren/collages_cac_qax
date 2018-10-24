@@ -1,0 +1,13 @@
+flag: pricingPlan12
+type: experiment
+name: pricing plan
+archived: true
+stickinessProperty: rox.distinct_id
+availableValues:
+  - Med
+  - Low
+  - High
+  - Free
+platforms:
+  - name: iOS
+    value: Low
