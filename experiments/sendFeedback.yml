@@ -1,0 +1,7 @@
+flag: sendFeedback
+type: experiment
+name: send feedback
+stickinessProperty: rox.distinct_id
+platforms:
+  - name: iOS
+    value: false
