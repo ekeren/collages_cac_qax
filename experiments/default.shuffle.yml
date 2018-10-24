@@ -1,4 +1,0 @@
-flag: default.shuffle
-type: experiment
-name: shuffle
-value: false
