@@ -1,4 +1,6 @@
 flag: borderEditor
 type: experiment
 name: border editor
-value: false
+value:
+  - option: true
+    percentage: 50
