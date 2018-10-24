@@ -5,4 +5,4 @@ conditions:
   - value: true
     group:
       name: Internal employess
-value: true
+value: false
