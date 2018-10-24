@@ -1,7 +1,0 @@
-flag: nowYouSeeMe
-type: experiment
-name: now you see me
-stickinessProperty: rox.distinct_id
-platforms:
-  - name: iOS
-    value: true
