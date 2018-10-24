@@ -1,5 +1,4 @@
 flag: borderEditor
 type: experiment
 name: border editor
-stickinessProperty: rox.distinct_id
-value: true
+value: false
