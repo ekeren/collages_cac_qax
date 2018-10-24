@@ -1,5 +1,8 @@
 flag: templateShortList
 type: experiment
 name: template short list
-stickinessProperty: rox.distinct_id
-value: true
+conditions:
+  - value: true
+    group:
+      name: Internal employess
+value: false
