@@ -1,7 +1,0 @@
-type: target-group
-name: All users
-conditions:
-  - operator: eq
-    property: Company
-    operand: efds
-description: ''
