@@ -10,7 +10,7 @@ conditions:
       semver: 1.2.3
   - value:
       - option: true
-        percentage: 10
+        percentage: 9
     version:
       operator: semver-gte
       semver: 1.2.3
