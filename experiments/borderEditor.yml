@@ -1,0 +1,8 @@
+flag: borderEditor
+type: experiment
+name: border editor
+stickinessProperty: rox.distinct_id
+platforms:
+  - name: iOS
+    value: false
+value: true
