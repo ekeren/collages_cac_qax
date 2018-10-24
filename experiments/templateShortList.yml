@@ -1,0 +1,5 @@
+flag: templateShortList
+type: experiment
+name: template short list
+stickinessProperty: rox.distinct_id
+value: true
