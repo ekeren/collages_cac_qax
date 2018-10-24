@@ -1,0 +1,12 @@
+flag: pricingPlan
+type: experiment
+name: pricing plan
+stickinessProperty: rox.distinct_id
+availableValues:
+  - Med
+  - Low
+  - High
+  - Free
+platforms:
+  - name: Browser
+    value: Free
