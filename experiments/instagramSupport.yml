@@ -1,7 +1,0 @@
-flag: instagramSupport
-type: experiment
-name: instagram support
-stickinessProperty: rox.distinct_id
-platforms:
-  - name: iOS
-    value: true
