@@ -1,6 +1,0 @@
-flag: borderEditor
-type: experiment
-name: border editor
-value:
-  - option: true
-    percentage: 50
