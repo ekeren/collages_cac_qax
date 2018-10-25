@@ -1,4 +1,4 @@
 flag: borderEditor
 type: experiment
 name: border editor
-value: true
+value: false
